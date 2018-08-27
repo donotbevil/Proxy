@@ -37,6 +37,7 @@
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)raw\.githubusercontent\.com$
 (^|\.)castbox\.fm$
+(^|\.)quora\.fm$
 
 #GFWList IP start
 52.69.41.178
