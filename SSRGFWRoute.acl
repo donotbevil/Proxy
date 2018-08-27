@@ -37,7 +37,7 @@
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)raw\.githubusercontent\.com$
 (^|\.)castbox\.fm$
-(^|\.)quora\.fm$
+(^|\.)\w*quora\w*\.\w*$
 
 #Mylist IP
 34.235.56.176
