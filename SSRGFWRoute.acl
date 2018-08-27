@@ -15,7 +15,7 @@
 #**********************************************************************
 [proxy_list]
 
-# MyList
+# MyList domain
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
@@ -38,6 +38,10 @@
 (^|\.)raw\.githubusercontent\.com$
 (^|\.)castbox\.fm$
 (^|\.)quora\.fm$
+
+#Mylist IP
+34.235.56.176
+52.7.178.92
 
 #GFWList IP start
 52.69.41.178
