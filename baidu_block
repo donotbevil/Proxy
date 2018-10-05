@@ -436,3 +436,8 @@
 0.0.0.0       macau.baidu.com
 0.0.0.0       wapbaike.baidu.com
 
+##
+# Block Zhihu
+##
+0.0.0.0       www.zhihu.com
+0.0.0.0       zhihu.com
