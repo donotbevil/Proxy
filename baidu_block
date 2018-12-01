@@ -3,7 +3,6 @@
 ##
 0.0.0.0       post-js.baidu.com
 0.0.0.0       bbs.baidu.com
-0.0.0.0       tieba.baidu.com
 0.0.0.0       wapp.baidu.com
 0.0.0.0       post.baidu.com
 0.0.0.0       ix.baidu.com
@@ -16,7 +15,6 @@
 0.0.0.0       news.baidu.com
 0.0.0.0       z.baidu.com
 0.0.0.0       iknow.baidu.com
-0.0.0.0       zhidao.baidu.com
 0.0.0.0       hi.baidu.com
 0.0.0.0       kongjian.baidu.com
 0.0.0.0       b.baidu.com
